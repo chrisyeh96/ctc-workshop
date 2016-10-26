@@ -1,0 +1,49 @@
+#container {
+  width: 90%;
+  margin: auto; /* center the div */
+  font-family: Arial;
+}
+
+#header {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#profile_pic {
+  background-color: lightblue;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+#profile_pic img {
+  width: 120px;
+  height: 120px;
+  padding: 40px;
+}
+
+#title {
+  color: rgb(140,21,21); /* Cardinal Red */
+  font-size: 40pt;
+  font-weight: bold;
+  text-align: center;
+}
+
+.clear {
+  clear: both;
+}
+
+.section {
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+  padding-left: 15px;
+  padding-right: 15px;
+
+  border: 1px solid #cccccc;
+}
+
+.section-title {
+  color: rgb(140,21,21); /* Cardinal Red */
+}
